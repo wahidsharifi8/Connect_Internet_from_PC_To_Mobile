@@ -1,0 +1,6 @@
+chack the mobile is connected 
+	adb devices
+install the tools 
+	gnirehtet install
+run the tools
+	gnirehtet run
